@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm Aryaman Kumar
+### Computer Science and Economics at Rutgers New Brunswick
 
 <!--
 **aryaman103/aryaman103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
