@@ -1,4 +1,4 @@
-  ### Hi 👋, I'm Aryaman Kumar
+### Hi 👋, I'm Aryaman Kumar
 Computer Science and Economics at Rutgers University
 
 <!--
