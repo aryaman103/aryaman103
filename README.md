@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Aryaman Kumar
-Computer Science and Economics at Rutgers University
+Computer Science, Data Science and Economics at Rutgers University
 
 <!--
 **aryaman103/aryaman103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
